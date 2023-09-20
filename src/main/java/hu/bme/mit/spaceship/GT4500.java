@@ -109,9 +109,6 @@ public class GT4500 implements SpaceShip {
             // if both of the stores are empty, nothing can be done, return failure
           }
 
-        // try to fire both of the torpedo stores
-        //TODO implement feature
-
         break;
     }
 
